@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\section-1\Desktop\Saglik-Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin/Admin.Master">
+      <publishTime>11/30/2016 12:49:17</publishTime>
+    </File>
+    <File Include="Admin/AltKategoriEkle.aspx">
+      <publishTime>12/01/2016 11:21:26</publishTime>
+    </File>
+    <File Include="Admin/Default.aspx">
+      <publishTime>11/30/2016 11:40:10</publishTime>
+    </File>
+    <File Include="Admin/KategoriEkle.aspx">
+      <publishTime>12/01/2016 10:09:02</publishTime>
+    </File>
+    <File Include="Admin/Login.ascx">
+      <publishTime>11/30/2016 11:37:06</publishTime>
+    </File>
+    <File Include="Admin/UrunEkle.aspx">
+      <publishTime>12/02/2016 09:50:09</publishTime>
+    </File>
+    <File Include="AdresOnayi.aspx">
+      <publishTime>11/23/2016 11:27:25</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>11/03/2015 17:43:42</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>11/03/2015 17:43:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/web-SaglikProjesi.dll">
+      <publishTime>12/02/2016 11:47:57</publishTime>
+    </File>
+    <File Include="Content/style/images/adresonay2.jpg">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/bottom.jpg">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/btnSepeteAt.png">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/buttonblue.png">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/buttongray.png">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/buttongreen.png">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/buttonred.png">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/content.jpg">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/contenth2.jpg">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/kartlar.png">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/menubg.jpg">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/odeme2.jpg">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/sepetonay2.jpg">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/top.jpg">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/images/yasak.jpg">
+      <publishTime>01/20/2016 23:48:21</publishTime>
+    </File>
+    <File Include="Content/style/style.css">
+      <publishTime>11/30/2016 11:58:17</publishTime>
+    </File>
+    <File Include="Content/urunimages/AbdominalKorse.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/AlinAynasi.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/AlindanAtesOlcer.jpg">
+      <publishTime>01/28/2016 12:00:27</publishTime>
+    </File>
+    <File Include="Content/urunimages/AlinLambasi.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/AneroidTansiyon.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/AsiNakilKabi.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/BilektenOlcenTansiyon.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/BoyOlcerDuvarTipi.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/btnSepeteAt.png">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/buyuk/AlinAynasi.jpg">
+      <publishTime>01/20/2016 23:50:34</publishTime>
+    </File>
+    <File Include="Content/urunimages/buyuk/AlindanAtesOlcer.jpg">
+      <publishTime>01/28/2016 12:00:27</publishTime>
+    </File>
+    <File Include="Content/urunimages/buyuk/AlinLambasi.jpg">
+      <publishTime>01/20/2016 23:50:34</publishTime>
+    </File>
+    <File Include="Content/urunimages/buyuk/AsiNakilKabi.jpg">
+      <publishTime>01/20/2016 23:50:34</publishTime>
+    </File>
+    <File Include="Content/urunimages/buyuk/BoyOlcerDuvarTipi.jpg">
+      <publishTime>01/20/2016 23:50:34</publishTime>
+    </File>
+    <File Include="Content/urunimages/buyuk/DijitalBoyOlcerliBaskul.jpg">
+      <publishTime>01/20/2016 23:50:34</publishTime>
+    </File>
+    <File Include="Content/urunimages/buyuk/EKGTekKanalli.jpg">
+      <publishTime>01/20/2016 23:50:34</publishTime>
+    </File>
+    <File Include="Content/urunimages/buyuk/EKGUCKanalli.jpg">
+      <publishTime>01/20/2016 23:50:34</publishTime>
+    </File>
+    <File Include="Content/urunimages/buyuk/OtoskopHalojen.jpg">
+      <publishTime>01/20/2016 23:50:34</publishTime>
+    </File>
+    <File Include="Content/urunimages/buyuk/RiaSeti.jpg">
+      <publishTime>01/20/2016 23:50:34</publishTime>
+    </File>
+    <File Include="Content/urunimages/DijitalBoyOlcerliBaskul.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/DopplerElCep.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/EKGTekKanalli.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/EKGUCKanalli.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/GazliBez.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/HemoglabinStribi.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/kartlar.png">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/LigamentDestekli.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/NelsonBoyunluk.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/OtoskopHalojen.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/PatellaDestekli.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/PosetEldiven.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/PosturexKorse.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/PudraliMuayene.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/RiaSeti.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/SungerBoyunluk.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="Content/urunimages/UcKanalliYorumlu.jpg">
+      <publishTime>01/20/2016 23:49:49</publishTime>
+    </File>
+    <File Include="DataModel/Saglik.edmx.diagram">
+      <publishTime>11/16/2016 10:52:26</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>11/18/2016 11:13:24</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/16/2016 10:47:38</publishTime>
+    </File>
+    <File Include="Odeme.aspx">
+      <publishTime>11/24/2016 13:00:42</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/16/2016 10:52:23</publishTime>
+    </File>
+    <File Include="Sepet.aspx">
+      <publishTime>11/22/2016 09:33:02</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>11/24/2016 09:23:05</publishTime>
+    </File>
+    <File Include="UrunDetay.aspx">
+      <publishTime>11/18/2016 11:30:01</publishTime>
+    </File>
+    <File Include="Urunlerimiz.aspx">
+      <publishTime>11/18/2016 11:25:05</publishTime>
+    </File>
+    <File Include="UyeKayit.aspx">
+      <publishTime>11/24/2016 11:53:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/02/2016 11:47:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
